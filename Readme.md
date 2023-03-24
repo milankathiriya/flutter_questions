@@ -58,6 +58,7 @@
 10. Explain try, on, catch and finally keywords in detail.
 11. Explain use of constructors with it's types.
 12. Explain factory constructor with it's advantage.
+13. How to create a class attributes as public or private?
 
 ---
 
