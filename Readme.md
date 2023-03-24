@@ -79,6 +79,11 @@
 14. Explain a complete procedure for setup sign_up & sign_in mechanism for multiple users with different user_roles in Flutter using Firebase Firestore Database. Do not use Firebase Authentication Service.
 15. Explain how to achieve AUTOINCREMENT feature in Firebase Firestore database manually?
 16. Explain FOREIGN KEY concept in SQL with example in detail.
+17. Explain one time intro screen logic using Shared Preferences.
+18. How to save an image in Relational DB & in Non-Relational DB.
+19. How to save a color in Relational DB & in Non-Relational DB
+20. How to save an icon in Relational DB & in Non-Relational DB.
+21. Can we save a custom object in DB? If yes, then in which type of DB and how?
 
 ---
 
@@ -101,4 +106,43 @@
 5. How to call an API?
 6. By which packages we can call an API in Flutter and how?
 7. For a successfully arrived response after an API call, what response code did we should achieve?
-8.
+
+---
+
+### Advance UI
+
+1. What is Sliver? Where it can be used?
+2. Difference between CustomScrollView & NestedScrollView widgets?
+3. How many types of Sliver widgets can be used in Flutter? List them.
+
+---
+
+### Animation
+
+1. How many types of Animation we can do in Flutter?
+2. What is Tween Chaining? How to create it?
+3. What is Staggered Animation? How to create it?
+4. Explain any three Implicit animation widgets.
+5. Explain any three Explicit animation widgets.
+6. Difference between CustomPainter and CustomClipper.
+
+---
+
+### Push Notifications
+
+1. How many types of Push Notifications in Flutter?
+2. How many types of Local Push Notifications in Flutter?
+3. How many types of FCM (Firebase Cloud Messenging) Push Notifications in Flutter?
+4. How to senf FCM Push Notifications? Explain all possibilities.
+
+---
+
+### State Management System
+
+1. What is State? Describe types of states in detail.
+2. What is State Management System? List some popular approaches.
+3. Explain working flow of Provider state management system.
+4. Explain working flow of GetX state management system.
+5. Explain difference between Consumer widget & Provider.of(context) constructor.
+6. Describe difference between GetX state management approaches.
+7. Explain the logic of changing app theme using Provider.
