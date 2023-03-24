@@ -30,8 +30,17 @@
 
 ### General
 
-1. How many Flutter app lifecycle methods? Explain Which state executed when?
+1. How many Flutter app lifecycle methods? Explain which state executed when?
 2. What is Hot Reload & Hot Restart? Explain in detail.
+3. What is Model class? Why we should use it?
+4. What is Singleton class? When and why we should use it?
+5. What is Helper class?
+6. What is Future class? Explain with example in detail.
+7. What is Timer class? Describe the use of it.
+8. Difference between Future & Timer class.
+9. What is Stream?
+10. What is FutureBuilder widget? When should we can use it?
+11. What is StreamBuilder widget? When should we can use it?
 
 ---
 
@@ -64,6 +73,12 @@
 8. Explain CRUD operations with detail in example.
 9. Difference between Relation & Non-Relation DB.
 10. List pros. & cons. of Relation & Non-Relation DB.
+11. In which formats, data can be stored using Shared Preferences?
+12. Explain a complete procedure for setup sign_up & sign_in mechanism for multiple users in Flutter using Shared Preferences.
+13. Explain a complete procedure for setup sign_up & sign_in mechanism for multiple users with different user_roles in Flutter using SQLite.
+14. Explain a complete procedure for setup sign_up & sign_in mechanism for multiple users with different user_roles in Flutter using Firebase Firestore Database. Do not use Firebase Authentication Service.
+15. Explain how to achieve AUTOINCREMENT feature in Firebase Firestore database manually?
+16. Explain FOREIGN KEY concept in SQL with example in detail.
 
 ---
 
@@ -73,6 +88,7 @@
 2. What is JSON Parsing?
 3. What is JSON Encoding?
 4. What is JSON Decoding?
+5. What is Local JSON Bank? How to load it in Flutter?
 
 ---
 
@@ -83,3 +99,6 @@
 3. Explain types of APIs.
 4. Explain types of HTTP requests.
 5. How to call an API?
+6. By which packages we can call an API in Flutter and how?
+7. For a successfully arrived response after an API call, what response code did we should achieve?
+8.
