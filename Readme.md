@@ -4,6 +4,7 @@
 - આ એક એવું widget છે કે જે static હોય છે અને મેમરી(RAM) માં એક જ વાર સ્થાપતું હોય છે. 
 - આ widget ની મદદથી UI ને update કરી શકાતી નથી.
 - આ widget મેમરી(RAM) માં વારંવાર બનતું ના હોવાથી StatefulWidget કરતાં ઝડપી performance આપે છે.
+- આ widget ની મૂળ એક જ lifecycle method હોય છે, build() method.
 
 2. What is StatefulWidget?
 3. What are the differences between StatelessWidget & StatefulWidget?
