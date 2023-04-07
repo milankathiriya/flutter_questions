@@ -101,13 +101,13 @@
 ### API
 
 1. [What is API?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771)
-2. Which kind of data can be used while API calling?
-3. Explain types of APIs.
-4. Explain types of HTTP requests.
-5. How to call an API?
+2. [Which kind of data can be used while API calling?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#6157)
+3. [Explain types of APIs.](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#2402)
+4. [Explain types of HTTP requests.](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#e3db)
+5. [How to call an API?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#024f)
 6. By which packages we can call an API in Flutter and how?
-7. For a successfully arrived response after an API call, what response code did we should achieve?
-8. What is API Key?
+7. [For a successfully arrived response after an API call, what response code did we should achieve?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#3027)
+8. [What is API Key?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771#473c)
 
 ---
 
