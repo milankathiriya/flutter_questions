@@ -90,7 +90,7 @@
 
 ### JSON Parsing
 
-1. What is JSON?
+1. [What is JSON?](https://medium.com/@milankathiriya/what-is-json-7e13f6cbfc57)
 2. What is JSON Parsing?
 3. What is JSON Encoding?
 4. What is JSON Decoding?
