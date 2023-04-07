@@ -100,7 +100,7 @@
 
 ### API
 
-1. What is API?
+1. [What is API?](https://medium.com/@milankathiriya/what-is-api-f80bbd78f771)
 2. Which kind of data can be used while API calling?
 3. Explain types of APIs.
 4. Explain types of HTTP requests.
