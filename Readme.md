@@ -144,7 +144,7 @@
 
 ### State Management System
 
-1. What is State? Describe types of states in detail.
+1. [What is State? Describe types of states in detail.](https://medium.com/@milankathiriya/what-is-state-in-flutter-describe-types-of-states-in-detail-22af620ba7d5)
 2. What is State Management System? List some popular approaches.
 3. Explain working flow of Provider state management system.
 4. Explain working flow of GetX state management system.
