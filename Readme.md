@@ -88,6 +88,7 @@
 19. How to save a color in Relational DB & in Non-Relational DB
 20. How to save an icon in Relational DB & in Non-Relational DB.
 21. Can we save a custom object in DB? If yes, then in which type of DB and how?
+22. [List SQL queries for CRUD operations.](https://medium.com/@milankathiriya/sql-queries-for-sqlite-database-9729a841ba7d)
 
 ---
 
