@@ -5,7 +5,7 @@
 
 1. [What is StatelessWidget?](https://medium.com/@milankathiriya/what-is-statelesswidget-in-flutter-4932bb11e498)
 2. [What is StatefulWidget?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
-<p style="color: red;">3. What are the differences between StatelessWidget & StatefulWidget?</p>
+3. What are the differences between StatelessWidget & StatefulWidget?
 4. Explain the lifecycle methods of StatefulWidget.
 5. Explain differences between initState() & dispose() methods.
 
