@@ -4,10 +4,10 @@
 ### Stateless & Stateful Widgets
 
 **Q.1** **[What is StatelessWidget?](https://medium.com/@milankathiriya/what-is-statelesswidget-in-flutter-4932bb11e498)** <br>
-**Ans.**
+**Ans.:**
 This is a kind of widget which is static and only created once in a memory (RAM). Using this widget we cannot update an UI. Since this widget did not created in memory frequently, this supplies rapid performance as compared to StatefulWidget. This widget contains only one lifecycle method, build() method.
 
-**उत्तर** यह एक ऐसा widget है जो की static होता है और memory (RAM) के अंदर एक ही बार बनता है। इस widget की मदद से UI को update नहीं किया जा सक्ता है। यह widget memory (RAM) में बारबार ना बनने से StatefulWidget के मुकाबले ज्यादा performance देता है। इस widget की एक ही lifecycle method होती है, build() method।
+**उत्तर:** यह एक ऐसा widget है जो की static होता है और memory (RAM) के अंदर एक ही बार बनता है। इस widget की मदद से UI को update नहीं किया जा सक्ता है। यह widget memory (RAM) में बारबार ना बनने से StatefulWidget के मुकाबले ज्यादा performance देता है। इस widget की एक ही lifecycle method होती है, build() method।
 
 Q.2 [What is StatefulWidget?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
 
