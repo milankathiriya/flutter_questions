@@ -159,8 +159,7 @@
 
 ### Stateless & Stateful Widgets
 
-> [!ANSWER]
-> **Q.1 What is StatelessWidget?** <br>
+**Q.1 What is StatelessWidget?** <br>
 > **Ans.:**
 > This is a kind of widget which is static and only created once in a memory (RAM). Using this widget we cannot update an UI. Since this widget did not created in memory frequently, this supplies rapid performance as compared to StatefulWidget. This widget contains only one lifecycle method, build() method.
 
@@ -169,13 +168,13 @@
 > **જવાબ:** આ એક એવું widget છે કે જે static હોય છે અને મેમરી(RAM) માં એક જ વાર બનતું હોય છે. આ widget ની મદદથી UI ને update કરી શકાતી નથી. આ widget મેમરી(RAM) માં વારંવાર બનતું ના હોવાથી StatefulWidget કરતાં ઝડપી performance આપે છે. આ widget ની મૂળ એક જ lifecycle method હોય છે, build() method. 
 
 **Q.2 What is StatefulWidget?** <br>
-**Ans.:**
+> **Ans.:**
 This is a kind of widget which is dynamic and placed inside a memory (RAM). Using this widget we can update an UI using its lifecycle method setState(). Since this widget did created in memory frequently, this supplies slow performance as compared to StatelesWidget.
 This widget contains many lifecycle methods, such as createState(), initState(), build(), setState(), dispose() and many more…
 
-**उत्तर:** यह एक ऐसा widget है जो की dynamic है और memory (RAM) के अंदर बनता है। इस widget की lifecycle method setState() की मदद से हम UI को update कर सक्ते है। क्यूँकि यह widget memory में बारबार बनता है, इसलिए यह widget StatelessWidget के मुकाबले slow performance देता है। यह widget कई सारी lifecycle methods प्रदान करता है, जैसे की createState(), initState(), build(), setState(), dispose() और कई सारी…
+> **उत्तर:** यह एक ऐसा widget है जो की dynamic है और memory (RAM) के अंदर बनता है। इस widget की lifecycle method setState() की मदद से हम UI को update कर सक्ते है। क्यूँकि यह widget memory में बारबार बनता है, इसलिए यह widget StatelessWidget के मुकाबले slow performance देता है। यह widget कई सारी lifecycle methods प्रदान करता है, जैसे की createState(), initState(), build(), setState(), dispose() और कई सारी…
 
-**જવાબ:** આ widget dynamic હોય છે અને memory (RAM) માં બનતો હોય છે. આ widget ની lifecycle method setState() ની મદદ થી UI ને update કરી શકાય છે. આ widget memory (RAM) માં વારંવાર બનતો હોવાથી StatelesWidget ની સરખામણી માં ધીમું performance આપે છે. આ widget ઘણી lifecycle methods ધરાવે છે, જેવી કે createState(), initState(), build(), setState(), dispose() અને ઘણી બધી …
+> **જવાબ:** આ widget dynamic હોય છે અને memory (RAM) માં બનતો હોય છે. આ widget ની lifecycle method setState() ની મદદ થી UI ને update કરી શકાય છે. આ widget memory (RAM) માં વારંવાર બનતો હોવાથી StatelesWidget ની સરખામણી માં ધીમું performance આપે છે. આ widget ઘણી lifecycle methods ધરાવે છે, જેવી કે createState(), initState(), build(), setState(), dispose() અને ઘણી બધી …
 
 Q.3 What are the differences between StatelessWidget & StatefulWidget?
 
