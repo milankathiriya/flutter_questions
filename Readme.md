@@ -163,9 +163,9 @@
 > **Ans.:**
 > This is a kind of widget which is static and only created once in a memory (RAM). Using this widget we cannot update an UI. Since this widget did not created in memory frequently, this supplies rapid performance as compared to StatefulWidget. This widget contains only one lifecycle method, build() method.
 
-**उत्तर:** यह एक ऐसा widget है जो की static होता है और memory (RAM) के अंदर एक ही बार बनता है। इस widget की मदद से UI को update नहीं किया जा सक्ता है। यह widget memory (RAM) में बारबार ना बनने से StatefulWidget के मुकाबले ज्यादा performance देता है। इस widget की एक ही lifecycle method होती है, build() method।
+> **उत्तर:** यह एक ऐसा widget है जो की static होता है और memory (RAM) के अंदर एक ही बार बनता है। इस widget की मदद से UI को update नहीं किया जा सक्ता है। यह widget memory (RAM) में बारबार ना बनने से StatefulWidget के मुकाबले ज्यादा performance देता है। इस widget की एक ही lifecycle method होती है, build() method।
 
-**જવાબ:** આ એક એવું widget છે કે જે static હોય છે અને મેમરી(RAM) માં એક જ વાર બનતું હોય છે. આ widget ની મદદથી UI ને update કરી શકાતી નથી. આ widget મેમરી(RAM) માં વારંવાર બનતું ના હોવાથી StatefulWidget કરતાં ઝડપી performance આપે છે. આ widget ની મૂળ એક જ lifecycle method હોય છે, build() method. 
+> **જવાબ:** આ એક એવું widget છે કે જે static હોય છે અને મેમરી(RAM) માં એક જ વાર બનતું હોય છે. આ widget ની મદદથી UI ને update કરી શકાતી નથી. આ widget મેમરી(RAM) માં વારંવાર બનતું ના હોવાથી StatefulWidget કરતાં ઝડપી performance આપે છે. આ widget ની મૂળ એક જ lifecycle method હોય છે, build() method. 
 
 **Q.2 What is StatefulWidget?** <br>
 **Ans.:**
