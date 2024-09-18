@@ -2,7 +2,7 @@
 
 ### Stateless & Stateful Widgets
 
-1. [What is StatelessWidget?](https://medium.com/@milankathiriya/what-is-statelesswidget-in-flutter-4932bb11e498)
+1. [What is StatelessWidget?](https://github.com/milankathiriya/flutter_questions/blob/master/Readme.md#:~:text=Q.1%20What%20is%20StatelessWidget%3F)
 2. [What is StatefulWidget?](https://medium.com/@milankathiriya/what-is-statefulwidget-in-flutter-6e043c4cbda9)
 3. What are the differences between StatelessWidget & StatefulWidget?
 4. Explain the lifecycle methods of StatefulWidget.
