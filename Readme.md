@@ -159,7 +159,7 @@
 
 ### Stateless & Stateful Widgets
 
-> **Q.1 What is StatelessWidget?** <br>
+> [!TIP] **Q.1 What is StatelessWidget?** <br>
 > **Ans.:**
 > This is a kind of widget which is static and only created once in a memory (RAM). Using this widget we cannot update an UI. Since this widget did not created in memory frequently, this supplies rapid performance as compared to StatefulWidget. This widget contains only one lifecycle method, build() method.
 
