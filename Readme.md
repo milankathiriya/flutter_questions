@@ -13,9 +13,8 @@
 ### Libraries
 
 1. What is a library in Dart?
-2. How to create a custom library in Dart?
-3. How to use a custom library in Dart?
-4. Explain as, show, and hide keywords.
+2. How to create and use a custom library in Dart?
+3. Explain as, show, and hide keywords.
 
 ---
 
